@@ -1,6 +1,6 @@
 - 👋 Hello, I am Khadiijatu.
 - 👀 I’m interested in **Mathematical optimization, Computer science and Data science**. My broader interests include Education and Cognitive science.
-- 🌱 I’m currently learning **Data analytics, Machine learning algorithms, Software engineering**...
+- 🌱 I’m currently learning **Data analytics, Software engineering**...
 - 💞️ I’m looking to collaborate on any project involving at least one of my interests, both on the theoretical and practical side.
 - 📫 You can reach me at khadiijatu@gmail.com.
 
